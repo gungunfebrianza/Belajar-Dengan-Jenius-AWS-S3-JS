@@ -14,11 +14,13 @@ Melalui **AWS Management Console** atau **AWS Console** kita dapat berinteraksi 
 
 <img src="../assets/ConsoleManagement.png" style="zoom:75%;" />
 
-Jika kita perhatikan terdapat banyak sekali **Services** yang di sediakan oleh **AWS** :
+Jika kita perhatikan terdapat banyak sekali **Services** yang menjadi **AWS Resources** :
 
 <img src="../assets/AWSService.png" style="zoom:80%;" />
 
 Setelah kita terbiasa menggunakan **AWS Console** selanjutnya kita dapat menggunakan seluruh **AWS Resources** untuk diprogram menggunakan **AWS CLI** (**Command-line Interface**) dan **AWS SDK** (**Software Development Kits**).
+
+<img src="../assets/AWSAccess.png" style="zoom:80%;" />
 
 Pada buku ini kita membahas penggunaan layanan **Amazon Simple Storage System (S3)** yang merupakan salah satu layanan yang berada di dalam **Storage**. 
 
