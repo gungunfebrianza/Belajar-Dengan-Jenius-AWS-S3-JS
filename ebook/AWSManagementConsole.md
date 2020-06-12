@@ -12,19 +12,25 @@ Seluruh fungsi yang ada di dalam **Amazon Web Service (AWS)** memiliki **API** y
 
 Melalui **AWS Management Console** atau **AWS Console** kita dapat berinteraksi melalui **web interface** yang disediakan untuk mengelola **AWS Resources**. Di bawah ini adalah tampilan halaman **dashboard** dari **AWS Console Management** :
 
+<img src="../assets/ConsoleManagement.png" style="zoom:75%;" />
+
+Jika kita perhatikan terdapat banyak sekali **Services** yang di sediakan oleh **AWS** :
+
 <img src="../assets/AWSService.png" style="zoom:80%;" />
+
+Setelah kita terbiasa menggunakan **AWS Console** selanjutnya kita dapat menggunakan seluruh **AWS Resources** untuk diprogram menggunakan **AWS CLI** (**Command-line Interface**) dan **AWS SDK** (**Software Development Kits**).
 
 Pada buku ini kita membahas penggunaan layanan **Amazon Simple Storage System (S3)** yang merupakan salah satu layanan yang berada di dalam **Storage**. 
 
 Saat ini **Cloud Storage** adalah salah satu komponen penting dalam **Cloud Computing**, tempat menyimpan informasi untuk menjalankan sebuah aplikasi seperti : 
 
-1. **Big Data Analytics**,
+1. ***Big Data Analytics***,
 
 2. ***Data Warehouses,*** 
 
 3. ***Internet of Things*** atau 
 
-4. ***Backup*** dan ***archive*** sangat tergantung pada tempat penyimpanan data. 
+4. ***Backup*** dan ***Archive*** sangat tergantung pada tempat penyimpanan data. 
 
 <img src="../assets/StorageService.png" style="zoom:80%;" />
 
